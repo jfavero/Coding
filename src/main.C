@@ -7,10 +7,9 @@ using namespace std;
 int main()
 {
 
-    unsigned dim, nMom, nEq, nPoints, nVar, overEq;
+    unsigned dim;
 
-
-    cout << "\n\n";
+    for(int i = 0; i < 100; i++) cout << "\n\n" << i << endl;
  
     return 0;
 }
